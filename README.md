@@ -10,7 +10,7 @@ Self-run applications provide an interesting alternative to the status quo.  A s
 
 This is not meant to replace the existing system.  This is solely meant as an alternative.  The revenue model is that the originator of such a service who invests time in setting it up and defining it receives at the end a set of tokens that would be worthless or have value depending on the success of the service.  Likewise, individuals who participate in the evolution of the service or the maintenance of the service also receive incentives in the same way.  As the service accrues revenue, the financial tokens can be converted into present currency or can be held on for future currency.
 
-THe self-run service must be intuitive to set up and define by someone business savvy but not necessarily technical.  An amateur or business newbie should also be able to attempt to set up a service.  
+The self-run service must be intuitive to set up and define by someone business savvy but not necessarily technical.  An amateur or business newbie should also be able to attempt to set up a service.  
 
 The goal then is an infrastructure that provides self-run application creation, evolution, and maintenance as a service.  In addition, the infrastructure should provide for transactions, dispute resolution, communication, and reputation management.  This is very ambitious of course.  I will do my best to outline each point either as a problem that hopefully will be solved in the future or as an approach which should be taken as a first stab at a solution.
 
